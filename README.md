@@ -1,5 +1,5 @@
-# plh-facilitator-app-ph-content
-This package contains data used in the Philippines version of the PLH Facilitator app
+# plh-facilitator-app-th-content
+This package contains data used in the Thailand version of the PLH Facilitator app
 
 Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
 
