@@ -3,7 +3,7 @@ This package contains data used in the Thailand version of the PLH Facilitator a
 
 Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
 
-## App Preview[
+## App Preview
 https://plh-facilitator-th.web.app/
 
 ## Syncing data updates (automatic)
